@@ -1,0 +1,2 @@
+# distroless_langchain_image
+distrolessイメージでLangChainのイメージを作成する
